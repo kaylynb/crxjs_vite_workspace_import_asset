@@ -1,0 +1,8 @@
+{
+  "name": "crxjs_vite_workspace_import_asset",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ]
+
+}
